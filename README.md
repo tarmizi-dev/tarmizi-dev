@@ -10,6 +10,7 @@ I'm a C# WPF & Web API Developer focused on building practical software for real
 - 🧪 Device Integration (Barcode Scanner, Printer ,Payment Terminal)
 
 ## 📂 Projects
+- ImageSlider
 
 ## 📝 Goals
 - Improve modularity in WPF apps
