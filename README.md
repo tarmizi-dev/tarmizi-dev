@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Tarmizi
 
-<!--
-**tarmizi-dev/tarmizi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C# WPF & Web API Developer focused on building practical software for real-world business use cases.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 💻 C#, WPF, .NET Framework 
+- 🌐 Web API (RESTful services)
+- 🗃️ SQL Server, LINQ, Entity Framework
+- 🔧 GitHub, Visual Studio, visual Studio Code
+- 🧪 Device Integration (Barcode Scanner, Printer ,Payment Terminal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+## 📝 Goals
+- Improve modularity in WPF apps
+- Build scalable Web API for POS & Kiosk backends
+- Learn more on automated testing & CI/CD pipelines
+
+## 📫 Connect With Me
+- GitHub: [tarmizi-dev](https://github.com/tarmizi-dev)
+---
+
+> 💼 *Actively building and learning — open to collaboration or feedback on my code!*
