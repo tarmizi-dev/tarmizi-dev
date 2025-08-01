@@ -10,7 +10,7 @@ I'm a C# WPF & Web API Developer focused on building practical software for real
 - 🧪 Device Integration (Barcode Scanner, Printer ,Payment Terminal)
 
 ## 📂 Projects
-- ImageSlider
+- 🖼️ [ImageSlider](https://github.com/tarmizi-dev/ImageSlider) – Simple image carousel using WPF
 
 ## 📝 Goals
 - Improve modularity in WPF apps
