@@ -11,7 +11,7 @@ I'm a C# WPF & Web API Developer focused on building practical software for real
 
 ## 📂 Projects
 - 🖼️ [ImageSlider](https://github.com/tarmizi-dev/ImageSlider) – Simple image carousel using WPF
-- 🖼️ [ImageSlider](https://github.com/tarmizi-dev/ScanOrderApp.git) – Scan & Order web application built with ASP.NET Core MVC and Razor Pages
+- 🖼️ [ScanOrderApp](https://github.com/tarmizi-dev/ScanOrderApp) – Scan & Order web application built with ASP.NET Core MVC and Razor Pages
 
 ## 📝 Goals
 - Improve modularity in WPF apps
